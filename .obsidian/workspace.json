@@ -4,39 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "c41d667a2941f486",
+        "id": "f9e770bfb4231170",
         "type": "tabs",
         "children": [
           {
-            "id": "6e6e35cb885ff6ee",
+            "id": "b6516fef69ef070c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2d849f83253f6992",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": -57.76,
-                  "y": 151.5,
-                  "zoom": 0,
-                  "snapToGrid": false
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Photos/49253473b34e58dbc62c9ce6cdcd039.jpg",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Photos/49253473b34e58dbc62c9ce6cdcd039.jpg",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Photos/49253473b34e58dbc62c9ce6cdcd039.jpg"
+                "file": "README.md"
               }
             }
           },
@@ -161,17 +140,17 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "2d849f83253f6992",
+  "active": "3607d5e9fb74004d",
   "lastOpenFiles": [
-    "Photos/9c64780d7ffef0c5ea1f4c49e489d97.jpg",
-    "Untitled.canvas",
+    "GE 12 Intro - Find Somebody Who.md",
     "Co-Hissen.md",
     "README.md",
-    "GE 12 Intro - Find Somebody Who.md",
+    "Untitled.canvas",
+    "Photos/49253473b34e58dbc62c9ce6cdcd039.jpg",
+    "Photos/9c64780d7ffef0c5ea1f4c49e489d97.jpg",
     "().md",
+    "Untitled.md",
     "Archived.md",
-    "GitHub/Mochi Diffusion v2.0 PR.md",
-    "GitHub/Stats/Stats v2.7.31 PR.md",
-    "Test.md"
+    "GitHub/Mochi Diffusion v2.0 PR.md"
   ]
 }
