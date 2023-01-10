@@ -7,6 +7,6 @@
 - 如果有任何疑问，请[开启一个新的issue](https://github.com/Jerry23011/global-economics-notes/issues/new)
 - 推荐使用[Obsidian](https://obsidian.md)作为统一的Markdown编辑器
 - 推荐使用[GitHub Desktop](https://desktop.github.com)作为同步工具
-- 在上传新的内容时，请使用git或GitHub Desktop进行Pull Request
+- 在上传新的内容时，请使用git或GitHub Desktop [Pull Request](https://docs.github.com/zh/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests#)
 
 Enjoy!
