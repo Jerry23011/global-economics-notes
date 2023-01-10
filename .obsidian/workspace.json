@@ -23,16 +23,8 @@
             "id": "4e95120afde253e4",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Co-Hissen/Co-Hi Canvas.canvas",
-                "viewState": {
-                  "x": 40.03182240747813,
-                  "y": -76.57689760690381,
-                  "zoom": -0.6105581068992614,
-                  "snapToGrid": false
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -102,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "31b55bd4deef3a74ac4ce9a10e78091b_raw 1.mp4",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "31b55bd4deef3a74ac4ce9a10e78091b_raw 1.mp4",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "31b55bd4deef3a74ac4ce9a10e78091b_raw 1.mp4"
-              }
+              "state": {}
             }
           },
           {
@@ -163,11 +151,11 @@
   },
   "active": "4e95120afde253e4",
   "lastOpenFiles": [
+    "Co-Hissen/Co-Hi Canvas.canvas",
     "Co-Hissen/Co-Hi No.1.md",
     "GE 12 Intro - Find Somebody Who.md",
     "README.md",
     "Co-Hissen.md",
-    "Co-Hissen/Co-Hi Canvas.canvas",
     "Photos/49253473b34e58dbc62c9ce6cdcd039.jpg",
     "Photos/9c64780d7ffef0c5ea1f4c49e489d97.jpg",
     "().md",
