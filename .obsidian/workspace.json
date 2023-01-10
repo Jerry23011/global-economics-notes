@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e2b2f53fb008fc11",
+        "id": "53fa9dd6724070e3",
         "type": "tabs",
         "children": [
           {
-            "id": "fb2003d8a9765be0",
+            "id": "287a36c6ccdd6e88",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -136,8 +136,9 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "fb2003d8a9765be0",
+  "active": "287a36c6ccdd6e88",
   "lastOpenFiles": [
+    "README.md",
     "GE 12 Intro - Find Somebody Who.md",
     "().md",
     "Untitled.md",
@@ -146,7 +147,6 @@
     "GitHub/Stats/Stats v2.7.31 PR.md",
     "Test.md",
     "test.md",
-    "Others/Obsidian Help Documents.md",
-    "Others/Obsidian bug tracker.md"
+    "Others/Obsidian Help Documents.md"
   ]
 }
