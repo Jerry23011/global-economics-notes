@@ -15,7 +15,12 @@
     "ones",
     "Ocean**",
     "一个用于协作同步笔记的GitHub仓库，专注于NS体系的Global",
-    "在上传新的内容时，请使用git或GitHub"
+    "在上传新的内容时，请使用git或GitHub",
+    "在上传新的内容时，先fork仓库到自己的账户下，然后使用git或GitHub",
+    "Request](https://docs.github.com/zh/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests#)到主仓库",
+    "commit到自己的仓库再",
+    "在本地做任何更改时先用git或GitHub",
+    "Request](https://github.com/Jerry23011/global-economics-notes/pulls)到主仓库"
   ],
   "defaultViewMode": "source",
   "pdfExportSettings": {
