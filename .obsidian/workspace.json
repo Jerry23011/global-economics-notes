@@ -11,11 +11,32 @@
             "id": "b6516fef69ef070c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "GE 12 Intro - Find Somebody Who.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e95120afde253e4",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Co-Hissen/Co-Hi Canvas.canvas",
+                "viewState": {
+                  "x": 89.45812725655809,
+                  "y": -76.57689760690381,
+                  "zoom": -0.6105581068992614,
+                  "snapToGrid": false
+                }
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Co-Hissen/Co-Hi Canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Co-Hissen/Co-Hi Canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Co-Hissen/Co-Hi Canvas.canvas"
               }
             }
           },
@@ -140,16 +161,16 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "3607d5e9fb74004d",
+  "active": "4e95120afde253e4",
   "lastOpenFiles": [
+    "Co-Hissen/Co-Hi No.1.md",
     "GE 12 Intro - Find Somebody Who.md",
-    "Co-Hissen.md",
     "README.md",
-    "Untitled.canvas",
+    "Co-Hissen.md",
+    "Co-Hissen/Co-Hi Canvas.canvas",
     "Photos/49253473b34e58dbc62c9ce6cdcd039.jpg",
     "Photos/9c64780d7ffef0c5ea1f4c49e489d97.jpg",
     "().md",
-    "Untitled.md",
     "Archived.md",
     "GitHub/Mochi Diffusion v2.0 PR.md"
   ]
