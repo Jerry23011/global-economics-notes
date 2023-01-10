@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "b5787778251c9f14",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2b2f53fb008fc11",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb2003d8a9765be0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5ac9bf74920b657d",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d64485351be6dfa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3607d5e9fb74004d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f2e6c3c7f0000133",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "06cdf48ed40d2e2a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 235.5
+  },
+  "right": {
+    "id": "2e6405d9c707d96b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6d0309400cdf4e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5366d56376e4690d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "24f609c360fa91e9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d7ecd587a88a590c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "4afccd524253ed81",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": false,
+      "canvas:Create new canvas": false
+    }
+  },
+  "active": "fb2003d8a9765be0",
+  "lastOpenFiles": [
+    "GE 12 Intro - Find Somebody Who.md",
+    "().md",
+    "Untitled.md",
+    "Archived.md",
+    "GitHub/Mochi Diffusion v2.0 PR.md",
+    "GitHub/Stats/Stats v2.7.31 PR.md",
+    "Test.md",
+    "test.md",
+    "Others/Obsidian Help Documents.md",
+    "Others/Obsidian bug tracker.md"
+  ]
+}

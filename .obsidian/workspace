@@ -1,0 +1,133 @@
+{
+  "main": {
+    "id": "b5787778251c9f14",
+    "type": "split",
+    "children": [
+      {
+        "id": "4648417119f4a346",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5ac9bf74920b657d",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d64485351be6dfa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3607d5e9fb74004d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f2e6c3c7f0000133",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "06cdf48ed40d2e2a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2e6405d9c707d96b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6d0309400cdf4e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5366d56376e4690d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "24f609c360fa91e9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d7ecd587a88a590c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "4afccd524253ed81",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4648417119f4a346",
+  "lastOpenFiles": [
+    "Obsidian Help Documents.md",
+    "Bio Notes/Ear.md",
+    "tags test.md",
+    "README.md",
+    "File 2.md",
+    "Test.md"
+  ]
+}

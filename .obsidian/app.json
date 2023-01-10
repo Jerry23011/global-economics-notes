@@ -1,0 +1,25 @@
+{
+  "promptDelete": false,
+  "showInlineTitle": false,
+  "spellcheckDictionary": [
+    "LOMAN",
+    "Hissen",
+    "Loman",
+    "连接Host",
+    "volmikan",
+    "Freeform",
+    "ProMotion",
+    "Merged",
+    "Français",
+    "Docs",
+    "ones",
+    "Ocean**"
+  ],
+  "defaultViewMode": "source",
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}
