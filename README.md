@@ -10,4 +10,5 @@
 - 在上传新的内容时，先fork仓库到自己的账户下，然后使用git或GitHub Desktop commit到自己的仓库再 [Pull Request](https://github.com/Jerry23011/global-economics-notes/pulls)到主仓库
 - 在本地做任何更改时先用git或GitHub Desktop [Fetch Origin](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/keeping-your-local-repository-in-sync-with-github/syncing-your-branch)
 - Obsidian官方Markdown说明：[Formatting your notes](https://help.obsidian.md/How+to/Format+your+notes)
+
 **Enjoy!**
