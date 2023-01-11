@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7e9f892fe32951a3",
+        "id": "990c2aea357f511d",
         "type": "tabs",
         "children": [
           {
-            "id": "04b57626e0b887c8",
+            "id": "7361ec45af9ab40a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -136,7 +136,7 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "04b57626e0b887c8",
+  "active": "7361ec45af9ab40a",
   "lastOpenFiles": [
     "README.md",
     "GE 12 Intro - Find Somebody Who.md",
