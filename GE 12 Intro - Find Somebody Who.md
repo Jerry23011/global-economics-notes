@@ -1,5 +1,4 @@
 ## Identifying terms
----
 
 ### **[UNDP](https://www.undp.org)** stands for United Nations Development program
 - ##### Mission
