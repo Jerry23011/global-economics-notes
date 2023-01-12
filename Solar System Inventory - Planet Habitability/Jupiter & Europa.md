@@ -47,23 +47,24 @@
 
 ### Europa
 - Distance from the Sun
-	AU
+	4.95 AU
 - Diameter
-	 km
+	3120 km
 - Number of Moons
-	
+	It is a moon
 - Atmosphere composition
-	
+	Gas Mix: Oxygen, water vapor
 - Force of Gravity
-	 m/s^2
+	1.32 m/s^2
 - Winds/Atmospheric Pressure
-	 Kilopascal
+	1×10^-10 Kilopascal
 - Rotational Period -day/night
-	Self-rotation:  hours/day and night
+	Self-rotation:  > 84 hours/day and night
 	 years to rotate once around the Sun
 - Temp. (deg C)
-	 °C ave
+	-163 °C ave equator
+	-223 °C ave poles
 - Liq. H2O present ?
-	
+	Yes
 - Conclusion – Habitable?
-	Yes/No
+	No
