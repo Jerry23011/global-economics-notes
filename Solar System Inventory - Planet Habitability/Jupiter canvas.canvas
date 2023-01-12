@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"7e8a4fe9ba6d79c9","x":-82,"y":-290,"width":154,"height":60,"type":"text","text":"# Jupiter"},
+		{"id":"e5c1874072695345","x":-207,"y":-69,"width":95,"height":60,"type":"text","text":"## Itself"},
+		{"id":"eefacf3dc0204658","x":72,"y":-69,"width":130,"height":60,"type":"text","text":"## Europa"}
+	],
+	"edges":[
+		{"id":"45b09f696a3a23d1","fromNode":"7e8a4fe9ba6d79c9","fromSide":"bottom","toNode":"eefacf3dc0204658","toSide":"top"},
+		{"id":"c941b614020d92de","fromNode":"7e8a4fe9ba6d79c9","fromSide":"bottom","toNode":"e5c1874072695345","toSide":"top"}
+	]
+}
