@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f320df200fa8c093",
+        "id": "a3a7546726a8f09d",
         "type": "tabs",
         "children": [
           {
-            "id": "513fcce5f4ed7c10",
+            "id": "72e9498875a2c2a6",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -125,8 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -136,8 +135,9 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "513fcce5f4ed7c10",
+  "active": "72e9498875a2c2a6",
   "lastOpenFiles": [
+    "Earth In Space - A Tour.md",
     "GE 12 Intro - Find Somebody Who.md",
     "README.md",
     "Co-Hissen/Co-Hi Canvas.canvas",
@@ -146,7 +146,6 @@
     "Photos/49253473b34e58dbc62c9ce6cdcd039.jpg",
     "Photos/9c64780d7ffef0c5ea1f4c49e489d97.jpg",
     "().md",
-    "Archived.md",
-    "GitHub/Mochi Diffusion v2.0 PR.md"
+    "Archived.md"
   ]
 }
