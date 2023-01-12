@@ -4,44 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a72e166f9bcfd109",
+        "id": "7c8bb844ec8366ac",
         "type": "tabs",
-        "dimension": 35.67961165048544,
         "children": [
           {
-            "id": "36338130e6bd384d",
+            "id": "0d3584dd4013a3d7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Solar System Inventory - Planet Habitability/Jupiter & Europa.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "f2c9d11722b14dca",
-        "type": "tabs",
-        "dimension": 64.32038834951457,
-        "children": [
-          {
-            "id": "36a52aa290285005",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0,
-                  "snapToGrid": false
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -94,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2e6405d9c707d96b",
@@ -111,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,9 +107,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Untitled.canvas"
-              }
+              "state": {}
             }
           },
           {
@@ -171,9 +137,10 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "36a52aa290285005",
+  "active": "0d3584dd4013a3d7",
   "lastOpenFiles": [
     "Solar System Inventory - Planet Habitability/Jupiter canvas.canvas",
+    "Untitled.canvas",
     "Solar System Inventory - Planet Habitability/Jupiter & Europa.md",
     "Data.md",
     "Solar System Inventory - Planet Habitability/Solar System Inventory References.md",
@@ -181,7 +148,6 @@
     "GE 12 Intro - Find Somebody Who.md",
     "README.md",
     "Co-Hissen/Co-Hi Canvas.canvas",
-    "Co-Hissen/Co-Hi No.1.md",
-    "Co-Hissen.md"
+    "Co-Hissen/Co-Hi No.1.md"
   ]
 }
