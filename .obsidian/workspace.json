@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7c8bb844ec8366ac",
+        "id": "c8a807b253947384",
         "type": "tabs",
         "children": [
           {
-            "id": "0d3584dd4013a3d7",
+            "id": "bc56caf6b7b5e2c8",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -137,13 +137,13 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "0d3584dd4013a3d7",
+  "active": "bc56caf6b7b5e2c8",
   "lastOpenFiles": [
+    "Solar System Inventory - Planet Habitability/References Solar System Inventory.md",
     "Solar System Inventory - Planet Habitability/Jupiter canvas.canvas",
-    "Untitled.canvas",
     "Solar System Inventory - Planet Habitability/Jupiter & Europa.md",
+    "Untitled.canvas",
     "Data.md",
-    "Solar System Inventory - Planet Habitability/Solar System Inventory References.md",
     "Earth In Space - A Tour.md",
     "GE 12 Intro - Find Somebody Who.md",
     "README.md",
