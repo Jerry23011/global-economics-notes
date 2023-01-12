@@ -43,7 +43,7 @@
 - Liq. H2O present ?
 	Yes
 - Conclusion – Habitable?
-	Yes/No
+	No
 
 ### Europa
 - Distance from the Sun
@@ -59,8 +59,8 @@
 - Winds/Atmospheric Pressure
 	1×10^-10 Kilopascal
 - Rotational Period -day/night
-	Self-rotation:  > 84 hours/day and night
-	 years to rotate once around the Sun
+	Self-rotation: 84 hours/day and night
+	84 hours to rotate once around the Jupiter
 - Temp. (deg C)
 	-163 °C ave equator
 	-223 °C ave poles
