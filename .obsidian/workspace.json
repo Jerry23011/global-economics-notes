@@ -11,8 +11,16 @@
             "id": "bc56caf6b7b5e2c8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Solar System Inventory - Planet Habitability/Jupiter canvas.canvas",
+                "viewState": {
+                  "x": -114,
+                  "y": 376,
+                  "zoom": -1.887578392049504,
+                  "snapToGrid": false
+                }
+              }
             }
           }
         ]
@@ -65,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2e6405d9c707d96b",
@@ -81,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Solar System Inventory - Planet Habitability/Jupiter canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Solar System Inventory - Planet Habitability/Jupiter canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +118,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Solar System Inventory - Planet Habitability/Jupiter canvas.canvas"
+              }
             }
           },
           {
