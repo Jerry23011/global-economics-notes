@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1b75f992a280e27d",
+        "id": "5bbb2a4631bc7690",
         "type": "tabs",
         "children": [
           {
-            "id": "ae146ed9998dc366",
+            "id": "b48c6ab7f9fce7b4",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -137,15 +137,15 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "ae146ed9998dc366",
+  "active": "b48c6ab7f9fce7b4",
   "lastOpenFiles": [
     "Archived/Solar System Inventory - Planet Habitability/Jupiter canvas.canvas",
-    "Archived/Solar System Inventory - Planet Habitability/References Solar System Inventory.md",
     "Archived/Solar System Inventory - Planet Habitability/Jupiter & Europa.md",
+    "Archived/Solar System Inventory - Planet Habitability/References Solar System Inventory.md",
+    "GE 12 Intro - Find Somebody Who.md",
+    "Earth In Space - A Tour.md",
     "Untitled.canvas",
     "Data.md",
-    "Earth In Space - A Tour.md",
-    "GE 12 Intro - Find Somebody Who.md",
     "README.md",
     "Co-Hissen/Co-Hi Canvas.canvas",
     "Co-Hissen/Co-Hi No.1.md"

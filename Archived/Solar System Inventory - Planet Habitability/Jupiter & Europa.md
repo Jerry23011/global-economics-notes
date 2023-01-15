@@ -1,5 +1,4 @@
 ## Jupiter and its moon – Europa
----
 
 ## Criteria for habitability
 > The standard definition for a habitable planet is one that can sustain life for a significant period of time. — NASA
