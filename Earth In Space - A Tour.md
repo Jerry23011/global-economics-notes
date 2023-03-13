@@ -1,6 +1,7 @@
-## Our Fragile Planet
+# Our Fragile Planet
 “Earth in Space”
 
+### General Information
 #### How to observe
 - The U.S. Space program (NASA) has space telescope **Hubble** has taken many amazing images of distant galaxies and other astronomical structures during the past 31 years.
 #### The model of Space
@@ -118,9 +119,41 @@ OVERVIEW
 #### The deep space Voyager probes
 - Voyager 1 and 2 launched in 1976 have passed the outer planets before 1990, famous for taking a photograph of Earth as a “*pale blue dot*”. 
 - Now passing through the so-called “shock zone” into “inter-stellar” space, where electrons no longer orient toward the Sun.
-- Voyager – at the very edge of interstellar space
+- Voyager – at the very edge of interstellar space.
 ---
 ### The nearest stars – The Centauri systems
 - For many years, the Alpha Centauri (visible in the night sky above the Southern Hemisphere) was considered our Sun’s closest neighbor.
 - Recent observations with better equipment show a brown dwarf (dying star) Proxima Centauri and its twin to be closer at a distance of about 4 Light Years (recall explanation) AND possibly an Earth-like planet orbiting around it.
-- In sum – the fastest spacecraft would need over 70 000 years to reach the Centauri star system.
+- In sum – the fastest spacecraft would need over 70,000 years to reach the Centauri star system.
+---
+### The latest contribution, … the James Webb Space Telescope
+- 10 years late and billions of dollars over-budget, the much anticipated James Webb Telescope will take soon its place at the “L2” spot 1.5 million km from Earth.
+- It will observe in the infra-red light spectrum further into space than ever before, inspect extra-solar systems for signs of life.
+---
+### The Planet Hunters
+- Recent advances in detection, and other deduction methods have allowed astronomers to confirm the existence of over **4000 exoplanets**, or planets OUTSIDE our solar system orbiting other stars, or “suns”.
+- While we now can detect and estimate exoplanet size, mass, orbiting distance and atmosphere content using mathematical models and spectrum analysis, we have **no images**. These are just **too far** away, and do not reflect enough light.
+#### Exoplanet hunting techniques
+##### Radical Velocity “wobble” measurement
+- Effective for finding planets near closes stars.
+##### Transit Method
+- Theory: Starlight dims very slightly, or changes color, when a planet crosses in front of it – not unlike a mini-eclipse of our own Sun by planets in our solar system.
+- Weakness = not all systems will be at favorable angles.
+---
+### And finally, … the search for “E.T.’s”(alien life)
+- For forty (40) years, radio- astronomers and experts worldwide, in the **SETI – (Search for Extra-terrestrial Intelligence)** program have “listened” for electronic signals from potential advanced “alien” civilizations in the Universe. 
+- Natural events called **quasars (rapidly spinning stars)** give off radio signals have often provided them with false hope.
+- In 2016, **China** opened the world’s largest **radio telescope (FAST)** to join in this search.
+#### Will we ever make “contact”?
+- The1997movie “Contact” tells the fictional tale of a young astronomer who picks up radio signals from another galactic civilization, and briefly travels to their world.
+---
+### And, something else to think about – what is the cost-benefits analysis of space exploration?
+- Space travel is expensive!
+- But, Earth's resources are finite.
+- What if we were able to find additional resources on the Moon or asteroids in space?
+- Would it be “economical” to recover these?
+#### Cost-benefit table exemplar
+| costs | benefits |
+|:-----:|:--------:|
+|  ...  |   ...    |
+|  ...  |   ...    |
